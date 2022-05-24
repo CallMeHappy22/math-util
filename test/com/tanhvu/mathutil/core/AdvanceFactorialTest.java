@@ -42,7 +42,7 @@ public class AdvanceFactorialTest {
             {3, 6},
             {4, 24},
             {5,120},
-            {6, 1720},};//Bo sung test ci
+            {6, 720},};//Bo sung test ci
     }
 
     @Parameter(value = 0)
